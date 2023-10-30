@@ -11,7 +11,7 @@
 - 🔧 I enjoy solving complex problems and implementing innovative features to enhance the user experience.
 
 ## Skills
-- 💻 Proficient in Flutter and Dart.
+- 💻 Proficient in Flutter, Dart (Firebase, API integration, Map Integration).
 - 📚 Strong knowledge of mobile app architecture, UI/UX design, and state management.
 - 🧰 Experience with third-party libraries and plugins to extend app functionality.
 - 🔨 Skilled in debugging, testing, and performance optimization.
